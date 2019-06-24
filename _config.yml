@@ -86,7 +86,7 @@ author:
   location         : "Stockholm, Sweden"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=f6uwYuEAAAAJ&hl=en"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/aktersnurra"
+  github           : "aktersnurra"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gustafrydholm/"
+  linkedin         : "gustafrydholm"
   orcid            : 
   pinterest        :
   soundcloud       :
