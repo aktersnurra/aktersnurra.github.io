@@ -118,8 +118,9 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  #categories: /resume/
   about: /about/
+  resume: /resume/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -136,6 +137,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
+  resume: file-text
   categories: th
   schedule: calendar
   tags: tags
@@ -213,9 +215,9 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
-
+  GitHub: https://github.com/aktersnurra
 
 # Social Links Icons
 # Icon Mapping:

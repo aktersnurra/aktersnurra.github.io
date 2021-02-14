@@ -1,6 +1,7 @@
 title:
   archive: Archive
   category: Category
+  resume: Resume
   tag: Tag
   schedule: Schedule
   archives: Archives
@@ -13,6 +14,7 @@ author: Author
 menu:
   home: Home
   archives: Archives
+  resume: Resume
   categories: Categories
   tags: Tags
   about: About
