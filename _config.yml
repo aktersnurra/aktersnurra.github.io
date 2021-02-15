@@ -121,6 +121,7 @@ menu:
   #categories: /resume/
   about: /about/
   resume: /resume/
+  skills: /skills/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -138,6 +139,7 @@ menu_icons:
   home: home
   about: user
   resume: file-text
+  skills: wrench
   categories: th
   schedule: calendar
   tags: tags
