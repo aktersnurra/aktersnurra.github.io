@@ -3,7 +3,6 @@ layout: page
 type: resume
 ---
 
-
 #### <i class="fa fa-briefcase"></i> Work Experiance
 
 **Machine Learning Engineer**<br/>
@@ -47,15 +46,78 @@ tbd<br/>
 KTH Royal Institute of Technology<br/>
 Aug 2013 -- Jun 2016<br/>
 Stockholm, Sweden<br/>
-tbd<br/>
+<br/>
 
 
 
 
 #### <i class="fa fa-wrench"></i> Skills
 
-<i class="fa fa-code" aria-hidden="true"></i>
+<i class="fa fa-code" aria-hidden="true"></i> **Languages**
 
-<i class="fa fa-database"></i>
+* Python -- fluent
+
+* Julia -- intermediate
+
+* Scala -- intermediate
+
+* Erlang -- intermediate
+
+* Rust -- familiar
+
+* VHDL -- familiar
 
 
+
+<i class="fa fa-microchip" aria-hidden="true"></i> **Machine Learning Libraries**
+
+* PyTorch -- fluent
+
+* Weights & Biases -- proficient
+
+* Scikit -- intermediate
+
+* Pyro -- familiar
+
+* PyMC -- familiar
+
+
+<i class="fa fa-database"></i> **Databases**
+
+SQL
+
+* Postgres -- proficient
+
+* TimescaleDB -- proficient
+
+NoSQL
+
+* MongoDB -- proficient
+
+Streaming
+
+* Kafka -- proficient
+
+* Faust -- proficient
+
+Key-Value
+
+* Redis -- proficient
+
+* RocksDB -- proficient
+
+<i class="fa fa-cubes" aria-hidden="true"></i> **Container and Orchestration**
+
+* Kubernetes -- intermediate
+
+* helm -- intermediate
+
+* MicroK8s -- intermediate
+
+* Docker -- proficient
+
+<i class="fa fa-cogs" aria-hidden="true"></i> **DevOps**
+
+* CircleCI -- familiar
+
+* Jenkins -- familiar
